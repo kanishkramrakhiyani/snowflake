@@ -1,1 +1,1 @@
-hello world
+This is Snowflake Tutorial.
